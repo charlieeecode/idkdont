@@ -1,331 +1,854 @@
-player,name,value,Average
-Victor Wembanyama,Sam Vecenie,1,1
-Victor Wembanyama,CBS,1,1
-Victor Wembanyama,nbadraft.net,1,1
-Victor Wembanyama,Bleacher Report,1,1
-Victor Wembanyama,Kevin O'Connor,1,1
-Victor Wembanyama,ESPN,1,1
-Victor Wembanyama,Tankathon,1,1
-Victor Wembanyama,The Box and One,1,1
-Victor Wembanyama,NBA Draft Room,1,1
-Victor Wembanyama,Sports Illustrated,1,1
-Victor Wembanyama,Average,1,1
-Scoot Henderson,Sam Vecenie,2,2.272727273
-Scoot Henderson,CBS,2,2.272727273
-Scoot Henderson,nbadraft.net,3,2.272727273
-Scoot Henderson,Bleacher Report,2,2.272727273
-Scoot Henderson,Kevin O'Connor,3,2.272727273
-Scoot Henderson,ESPN,3,2.272727273
-Scoot Henderson,Tankathon,2,2.272727273
-Scoot Henderson,The Box and One,2,2.272727273
-Scoot Henderson,NBA Draft Room,2,2.272727273
-Scoot Henderson,Sports Illustrated,2,2.272727273
-Scoot Henderson,Average,2,2.3
-Brandon Miller,Sam Vecenie,3,3
-Brandon Miller,CBS,4,3
-Brandon Miller,nbadraft.net,2,3
-Brandon Miller,Bleacher Report,4,3
-Brandon Miller,Kevin O'Connor,2,3
-Brandon Miller,ESPN,2,3
-Brandon Miller,Tankathon,3,3
-Brandon Miller,The Box and One,4,3
-Brandon Miller,NBA Draft Room,3,3
-Brandon Miller,Sports Illustrated,3,3
-Brandon Miller,Average,3,3
-Amen Thompson,Sam Vecenie,4,4
-Amen Thompson,CBS,3,4
-Amen Thompson,nbadraft.net,6,4
-Amen Thompson,Bleacher Report,3,4
-Amen Thompson,Kevin O'Connor,4,4
-Amen Thompson,ESPN,4,4
-Amen Thompson,Tankathon,4,4
-Amen Thompson,The Box and One,3,4
-Amen Thompson,NBA Draft Room,4,4
-Amen Thompson,Sports Illustrated,5,4
-Amen Thompson,Average,4,4
-Ausar Thompson,Average,7,6.9
-Ausar Thompson,Sam Vecenie,7,6.909090909
-Ausar Thompson,CBS,6,6.909090909
-Ausar Thompson,nbadraft.net,7,6.909090909
-Ausar Thompson,Bleacher Report,6,6.909090909
-Ausar Thompson,Kevin O'Connor,5,6.909090909
-Ausar Thompson,ESPN,5,6.909090909
-Ausar Thompson,Tankathon,5,6.909090909
-Ausar Thompson,The Box and One,10,6.909090909
-Ausar Thompson,NBA Draft Room,9,6.909090909
-Ausar Thompson,Sports Illustrated,9,6.909090909
-Cam Whitmore,Sam Vecenie,5,7.090909091
-Cam Whitmore,CBS,5,7.090909091
-Cam Whitmore,nbadraft.net,9,7.090909091
-Cam Whitmore,Bleacher Report,9,7.090909091
-Cam Whitmore,Kevin O'Connor,9,7.090909091
-Cam Whitmore,ESPN,6,7.090909091
-Cam Whitmore,Tankathon,7,7.090909091
-Cam Whitmore,The Box and One,6,7.090909091
-Cam Whitmore,NBA Draft Room,7,7.090909091
-Cam Whitmore,Sports Illustrated,8,7.090909091
-Cam Whitmore,Average,7,7.1
-Jarace Walker,Sam Vecenie,9,7.363636364
-Jarace Walker,CBS,8,7.363636364
-Jarace Walker,nbadraft.net,13,7.363636364
-Jarace Walker,Bleacher Report,5,7.363636364
-Jarace Walker,Kevin O'Connor,8,7.363636364
-Jarace Walker,ESPN,7,7.363636364
-Jarace Walker,Tankathon,6,7.363636364
-Jarace Walker,The Box and One,9,7.363636364
-Jarace Walker,NBA Draft Room,5,7.363636364
-Jarace Walker,Sports Illustrated,4,7.363636364
-Taylor Hendricks,Sam Vecenie,6,7.363636364
-Taylor Hendricks,CBS,10,7.363636364
-Taylor Hendricks,nbadraft.net,4,7.363636364
-Taylor Hendricks,Bleacher Report,8,7.363636364
-Taylor Hendricks,Kevin O'Connor,7,7.363636364
-Taylor Hendricks,ESPN,9,7.363636364
-Taylor Hendricks,Tankathon,9,7.363636364
-Taylor Hendricks,The Box and One,8,7.363636364
-Taylor Hendricks,NBA Draft Room,6,7.363636364
-Taylor Hendricks,Sports Illustrated,7,7.363636364
-Jarace Walker,Average,7,7.4
-Taylor Hendricks,Average,7,7.4
-Anthony Black,Average,8,7.5
-Anthony Black,Sam Vecenie,8,7.545454545
-Anthony Black,CBS,9,7.545454545
-Anthony Black,nbadraft.net,5,7.545454545
-Anthony Black,Bleacher Report,12,7.545454545
-Anthony Black,Kevin O'Connor,6,7.545454545
-Anthony Black,ESPN,8,7.545454545
-Anthony Black,Tankathon,8,7.545454545
-Anthony Black,The Box and One,5,7.545454545
-Anthony Black,NBA Draft Room,8,7.545454545
-Anthony Black,Sports Illustrated,6,7.545454545
-Gradey Dick,Average,11,10.55555556
-Gradey Dick,Sam Vecenie,12,10.6
-Gradey Dick,CBS,11,10.6
-Gradey Dick,nbadraft.net,8,10.6
-Gradey Dick,Bleacher Report,10,10.6
-Gradey Dick,Kevin O'Connor,12,10.6
-Gradey Dick,ESPN,10,10.6
-Gradey Dick,Tankathon,10,10.6
-Gradey Dick,The Box and One,11,10.6
-Gradey Dick,Sports Illustrated,11,10.6
-Cason Wallace,Sam Vecenie,10,11
-Cason Wallace,CBS,16,11
-Cason Wallace,nbadraft.net,12,11
-Cason Wallace,Bleacher Report,7,11
-Cason Wallace,Kevin O'Connor,11,11
-Cason Wallace,ESPN,14,11
-Cason Wallace,Tankathon,11,11
-Cason Wallace,The Box and One,7,11
-Cason Wallace,NBA Draft Room,12,11
-Cason Wallace,Sports Illustrated,10,11
-Grady Dick,NBA Draft Room,11,11
-Cason Wallace,Average,11,11
-Grady Dick,Average,11,11
-Keyonte George,Sam Vecenie,18,13.18181818
-Keyonte George,CBS,7,13.18181818
-Keyonte George,nbadraft.net,15,13.18181818
-Keyonte George,Bleacher Report,11,13.18181818
-Keyonte George,Kevin O'Connor,13,13.18181818
-Keyonte George,ESPN,16,13.18181818
-Keyonte George,Tankathon,12,13.18181818
-Keyonte George,The Box and One,13,13.18181818
-Keyonte George,NBA Draft Room,14,13.18181818
-Keyonte George,Sports Illustrated,13,13.18181818
-Keyonte George,Average,13,13.2
-Nick Smith Jr.,nbadraft.net,10,16.27272727
-Nick Smith Jr.,The Box and One,21,16.27272727
-Nick Smith Jr.,Sam Vecenie,19,16.27272727
-Nick Smith Jr.,CBS,22,16.27272727
-Nick Smith Jr.,Bleacher Report,15,16.27272727
-Nick Smith Jr.,Kevin O'Connor,14,16.27272727
-Nick Smith Jr.,ESPN,13,16.27272727
-Nick Smith Jr.,Tankathon,13,16.27272727
-Nick Smith Jr.,NBA Draft Room,22,16.27272727
-Nick Smith Jr.,Sports Illustrated,14,16.27272727
-Nick Smith Jr.,Average,16,16.3
-Kobe Bufkin,Sam Vecenie,11,17.18181818
-Kobe Bufkin,CBS,15,17.18181818
-Kobe Bufkin,nbadraft.net,19,17.18181818
-Kobe Bufkin,Bleacher Report,13,17.18181818
-Kobe Bufkin,Kevin O'Connor,10,17.18181818
-Kobe Bufkin,ESPN,18,17.18181818
-Kobe Bufkin,Tankathon,23,17.18181818
-Kobe Bufkin,The Box and One,14,17.18181818
-Kobe Bufkin,NBA Draft Room,31,17.18181818
-Kobe Bufkin,Sports Illustrated,18,17.18181818
-Kobe Bufkin,Average,17,17.2
-Jalen Hood-Schifino,Sam Vecenie,16,17.36363636
-Jalen Hood-Schi?no,CBS,12,17.36363636
-Jalen Hood-Schifino,Bleacher Report,29,17.36363636
-Jalen Hood-Schifino,Kevin O'Connor,22,17.36363636
-Jalen Hood-Schifino,ESPN,11,17.36363636
-Jalen Hood-Schifino,Tankathon,17,17.36363636
-Jalen Hood-Schifino,The Box and One,18,17.36363636
-Jalen Hood-Schifino,NBA Draft Room,13,17.36363636
-Jalen Hood-Schifino,Sports Illustrated,20,17.36363636
-Jalen Hood-Schifino,nbadraft.net,16,17.36363636
-Jalen Hood-Schifino,Average,17,17.4
-Jordan Hawkins,Sam Vecenie,17,18.09090909
-Jordan Hawkins,CBS,18,18.09090909
-Jordan Hawkins,nbadraft.net,23,18.09090909
-Jordan Hawkins,Bleacher Report,23,18.09090909
-Jordan Hawkins,Kevin O'Connor,25,18.09090909
-Jordan Hawkins,ESPN,15,18.09090909
-Jordan Hawkins,Tankathon,14,18.09090909
-Jordan Hawkins,The Box and One,24,18.09090909
-Jordan Hawkins,NBA Draft Room,10,18.09090909
-Jordan Hawkins,Sports Illustrated,12,18.09090909
-Jordan Hawkins,Average,18,18.1
-GG Jackson,Sam Vecenie,22,19.33333333
-GG Jackson,nbadraft.net,11,19.33333333
-GG Jackson,Bleacher Report,20,19.33333333
-GG Jackson,Kevin O'Connor,18,19.33333333
-GG Jackson,Tankathon,30,19.33333333
-GG Jackson,The Box and One,12,19.33333333
-GG Jackson,NBA Draft Room,17,19.33333333
-GG Jackson,Sports Illustrated,25,19.33333333
-GG Jackson,Average,19,19.375
-Derek Lively II,Average,20,19.5
-Derek Lively II,nbadraft.net,32,19.54545455
-Derek Lively II,Bleacher Report,21,19.54545455
-Derek Lively II,Kevin O'Connor,20,19.54545455
-Derek Lively II,ESPN,12,19.54545455
-Derek Lively II,Tankathon,21,19.54545455
-Derek Lively II,The Box and One,16,19.54545455
-Derek Lively II,Sports Illustrated,22,19.54545455
-Derek Lively II,CBS,19,19.54545455
-Derek Lively II,Sam Vecenie,14,19.54545455
-Derek Lively II,NBA Draft Room,18,19.54545455
-Brice Sensabaugh,Average,22,21.7
-Kris Murray,Average,22,21.7
-Brice Sensabaugh,Sam Vecenie,15,21.72727273
-Brice Sensabaugh,CBS,23,21.72727273
-Brice Sensabaugh,nbadraft.net,35,21.72727273
-Brice Sensabaugh,Bleacher Report,14,21.72727273
-Brice Sensabaugh,Kevin O'Connor,19,21.72727273
-Brice Sensabaugh,ESPN,21,21.72727273
-Brice Sensabaugh,Tankathon,15,21.72727273
-Brice Sensabaugh,The Box and One,22,21.72727273
-Brice Sensabaugh,NBA Draft Room,27,21.72727273
-Brice Sensabaugh,Sports Illustrated,26,21.72727273
-Kris Murray,Sam Vecenie,20,21.72727273
-Kris Murray,CBS,17,21.72727273
-Kris Murray,nbadraft.net,18,21.72727273
-Kris Murray,Bleacher Report,26,21.72727273
-Kris Murray,Kevin O'Connor,27,21.72727273
-Kris Murray,ESPN,25,21.72727273
-Kris Murray,Tankathon,22,21.72727273
-Kris Murray,The Box and One,19,21.72727273
-Kris Murray,NBA Draft Room,26,21.72727273
-Kris Murray,Sports Illustrated,17,21.72727273
-Leonard Miller,Average,22,21.8
-Leonard Miller,Sam Vecenie,13,21.81818182
-Leonard Miller,CBS,21,21.81818182
-Leonard Miller,nbadraft.net,24,21.81818182
-Leonard Miller,Bleacher Report,30,21.81818182
-Leonard Miller,Kevin O'Connor,16,21.81818182
-Leonard Miller,ESPN,23,21.81818182
-Leonard Miller,Tankathon,20,21.81818182
-Leonard Miller,The Box and One,17,21.81818182
-Leonard Miller,NBA Draft Room,30,21.81818182
-Leonard Miller,Sports Illustrated,24,21.81818182
-Jett Howard,Sam Vecenie,27,22
-Jett Howard,CBS,32,22
-Jett Howard,nbadraft.net,25,22
-Jett Howard,Bleacher Report,17,22
-Jett Howard,Kevin O'Connor,23,22
-Jett Howard,ESPN,17,22
-Jett Howard,Tankathon,16,22
-Jett Howard,The Box and One,23,22
-Jett Howard,NBA Draft Room,21,22
-Jett Howard,Sports Illustrated,19,22
-Jett Howard,Average,22,22
-Rayan Rupert,Sam Vecenie,26,22.36363636
-Rayan Rupert,CBS,28,22.36363636
-Rayan Rupert,nbadraft.net,14,22.36363636
-Rayan Rupert,Bleacher Report,28,22.36363636
-Rayan Rupert,Kevin O'Connor,21,22.36363636
-Rayan Rupert,ESPN,19,22.36363636
-Rayan Rupert,Tankathon,18,22.36363636
-Rayan Rupert,The Box and One,33,22.36363636
-Rayan Rupert,NBA Draft Room,16,22.36363636
-Rayan Rupert,Sports Illustrated,21,22.36363636
-Rayan Rupert,Average,22,22.4
-Bilal Coulibaly,Average,23,22.5
-Bilal Coulibaly,Sam Vecenie,24,22.54545455
-Bilal Coulibaly,CBS,24,22.54545455
-Bilal Coulibaly,nbadraft.net,22,22.54545455
-Bilal Coulibaly,Bleacher Report,19,22.54545455
-Bilal Coulibaly,Kevin O'Connor,17,22.54545455
-Bilal Coulibaly,ESPN,22,22.54545455
-Bilal Coulibaly,Tankathon,24,22.54545455
-Bilal Coulibaly,The Box and One,26,22.54545455
-Bilal Coulibaly,NBA Draft Room,15,22.54545455
-Bilal Coulibaly,Sports Illustrated,32,22.54545455
-Dariq Whitehead,Sam Vecenie,21,25
-Dariq Whitehead,CBS,29,25
-Dariq Whitehead,nbadraft.net,33,25
-Dariq Whitehead,Bleacher Report,16,25
-Dariq Whitehead,Kevin O'Connor,35,25
-Dariq Whitehead,ESPN,26,25
-Dariq Whitehead,Tankathon,19,25
-Dariq Whitehead,The Box and One,20,25
-Dariq Whitehead,NBA Draft Room,35,25
-Dariq Whitehead,Sports Illustrated,16,25
-Max Lewis,The Box and One,25,25
-Dariq Whitehead,Average,25,25
-Max Lewis,Average,25,25
-Noah Clowney,Average,27,26.6
-Noah Clowney,Sam Vecenie,30,26.63636364
-Noah Clowney,CBS,41,26.63636364
-Noah Clowney,nbadraft.net,28,26.63636364
-Noah Clowney,Bleacher Report,24,26.63636364
-Noah Clowney,Kevin O'Connor,26,26.63636364
-Noah Clowney,ESPN,20,26.63636364
-Noah Clowney,Tankathon,27,26.63636364
-Noah Clowney,The Box and One,31,26.63636364
-Noah Clowney,NBA Draft Room,24,26.63636364
-Noah Clowney,Sports Illustrated,15,26.63636364
-Maxwell Lewis,Sam Vecenie,29,30.2
-Maxwell Lewis,CBS,56,30.2
-Maxwell Lewis,nbadraft.net,17,30.2
-Maxwell Lewis,Bleacher Report,27,30.2
-Maxwell Lewis,Kevin O'Connor,34,30.2
-Maxwell Lewis,ESPN,31,30.2
-Maxwell Lewis,Tankathon,26,30.2
-Maxwell Lewis,NBA Draft Room,25,30.2
-Maxwell Lewis,Sports Illustrated,27,30.2
-Maxwell Lewis,Average,30,30.22222222
-Colby Jones,Average,31,30.5
-Colby Jones,Sam Vecenie,28,30.54545455
-Colby Jones,CBS,33,30.54545455
-Colby Jones,nbadraft.net,57,30.54545455
-Colby Jones,Bleacher Report,22,30.54545455
-Colby Jones,Kevin O'Connor,29,30.54545455
-Colby Jones,ESPN,28,30.54545455
-Colby Jones,Tankathon,25,30.54545455
-Colby Jones,The Box and One,28,30.54545455
-Colby Jones,NBA Draft Room,32,30.54545455
-Colby Jones,Sports Illustrated,23,30.54545455
-Sidy Cissoko,Sam Vecenie,25,32.09090909
-Sidy Cissoko,CBS,42,32.09090909
-Sidy Cissoko,nbadraft.net,34,32.09090909
-Sidy Cissoko,Bleacher Report,48,32.09090909
-Sidy Cissoko,Kevin O'Connor,24,32.09090909
-Sidy Cissoko,ESPN,40,32.09090909
-Sidy Cissoko,Tankathon,28,32.09090909
-Sidy Cissoko,The Box and One,15,32.09090909
-Sidy Cissoko,NBA Draft Room,23,32.09090909
-Sidy Cissoko,Sports Illustrated,42,32.09090909
-Sidy Cissoko,Average,32,32.1
-Trayce Jackson-Davis,Sam Vecenie,40,33
-Trayce Jackson-Davis,CBS,25,33
-Trayce Jackson-Davis,nbadraft.net,20,33
-Trayce Jackson-Davis,Bleacher Report,36,33
-Trayce Jackson-Davis,Kevin O'Connor,32,33
-Trayce Jackson-Davis,ESPN,38,33
-Trayce Jackson-Davis,Tankathon,31,33
-Trayce Jackson-Davis,The Box and One,44,33
-Trayce Jackson-Davis,NBA Draft Room,29,33
-Trayce Jackson-Davis,Sports Illustrated,35,33
-Trayce Jackson-Davis,Average,33,33
+player,name,pick,Average,,,
+Victor Wembanyama,Sam Vecenie,1,1,,,
+Victor Wembanyama,CBS,1,1,,,
+Victor Wembanyama,nbadraft.net,1,1,,,
+Victor Wembanyama,Bleacher Report,1,1,,,
+Victor Wembanyama,Kevin O'Connor,1,1,,,
+Victor Wembanyama,ESPN,1,1,,,
+Victor Wembanyama,Tankathon,1,1,,,
+Victor Wembanyama,The Box and One,1,1,,,
+Victor Wembanyama,NBA Draft Room,1,1,,,
+Victor Wembanyama,Sports Illustrated,1,1,,,
+Victor Wembanyama,Average,1,1,,,
+Scoot Henderson,Sam Vecenie,2,2.272727273,,,
+Scoot Henderson,CBS,2,2.272727273,,,
+Scoot Henderson,nbadraft.net,3,2.272727273,,,
+Scoot Henderson,Bleacher Report,2,2.272727273,,,
+Scoot Henderson,Kevin O'Connor,3,2.272727273,,,
+Scoot Henderson,ESPN,3,2.272727273,,,
+Scoot Henderson,Tankathon,2,2.272727273,,,
+Scoot Henderson,The Box and One,2,2.272727273,,,
+Scoot Henderson,NBA Draft Room,2,2.272727273,,,
+Scoot Henderson,Sports Illustrated,2,2.272727273,,,
+Scoot Henderson,Average,2,2.3,,,
+Brandon Miller,Sam Vecenie,3,3,,,
+Brandon Miller,CBS,4,3,,,
+Brandon Miller,nbadraft.net,2,3,,,
+Brandon Miller,Bleacher Report,4,3,,,
+Brandon Miller,Kevin O'Connor,2,3,,,
+Brandon Miller,ESPN,2,3,,,
+Brandon Miller,Tankathon,3,3,,,
+Brandon Miller,The Box and One,4,3,,,
+Brandon Miller,NBA Draft Room,3,3,,,
+Brandon Miller,Sports Illustrated,3,3,,,
+Brandon Miller,Average,3,3,,,
+Amen Thompson,Sam Vecenie,4,4,,,
+Amen Thompson,CBS,3,4,,,
+Amen Thompson,nbadraft.net,6,4,,,
+Amen Thompson,Bleacher Report,3,4,,,
+Amen Thompson,Kevin O'Connor,4,4,,,
+Amen Thompson,ESPN,4,4,,,
+Amen Thompson,Tankathon,4,4,,,
+Amen Thompson,The Box and One,3,4,,,
+Amen Thompson,NBA Draft Room,4,4,,,
+Amen Thompson,Sports Illustrated,5,4,,,
+Amen Thompson,Average,4,4,,,
+Ausar Thompson,Average,7,6.9,,,
+Ausar Thompson,Sam Vecenie,7,6.909090909,,,
+Ausar Thompson,CBS,6,6.909090909,,,
+Ausar Thompson,nbadraft.net,7,6.909090909,,,
+Ausar Thompson,Bleacher Report,6,6.909090909,,,
+Ausar Thompson,Kevin O'Connor,5,6.909090909,,,
+Ausar Thompson,ESPN,5,6.909090909,,,
+Ausar Thompson,Tankathon,5,6.909090909,,,
+Ausar Thompson,The Box and One,10,6.909090909,,,
+Ausar Thompson,NBA Draft Room,9,6.909090909,,,
+Ausar Thompson,Sports Illustrated,9,6.909090909,,,
+Cam Whitmore,Sam Vecenie,5,7.090909091,,,
+Cam Whitmore,CBS,5,7.090909091,,,
+Cam Whitmore,nbadraft.net,9,7.090909091,,,
+Cam Whitmore,Bleacher Report,9,7.090909091,,,
+Cam Whitmore,Kevin O'Connor,9,7.090909091,,,
+Cam Whitmore,ESPN,6,7.090909091,,,
+Cam Whitmore,Tankathon,7,7.090909091,,,
+Cam Whitmore,The Box and One,6,7.090909091,,,
+Cam Whitmore,NBA Draft Room,7,7.090909091,,,
+Cam Whitmore,Sports Illustrated,8,7.090909091,,,
+Cam Whitmore,Average,7,7.1,,,
+Jarace Walker,Sam Vecenie,9,7.363636364,,,
+Jarace Walker,CBS,8,7.363636364,,,
+Jarace Walker,nbadraft.net,13,7.363636364,,,
+Jarace Walker,Bleacher Report,5,7.363636364,,,
+Jarace Walker,Kevin O'Connor,8,7.363636364,,,
+Jarace Walker,ESPN,7,7.363636364,,,
+Jarace Walker,Tankathon,6,7.363636364,,,
+Jarace Walker,The Box and One,9,7.363636364,,,
+Jarace Walker,NBA Draft Room,5,7.363636364,,,
+Jarace Walker,Sports Illustrated,4,7.363636364,,,
+Taylor Hendricks,Sam Vecenie,6,7.363636364,,,
+Taylor Hendricks,CBS,10,7.363636364,,,
+Taylor Hendricks,nbadraft.net,4,7.363636364,,,
+Taylor Hendricks,Bleacher Report,8,7.363636364,,,
+Taylor Hendricks,Kevin O'Connor,7,7.363636364,,,
+Taylor Hendricks,ESPN,9,7.363636364,,,
+Taylor Hendricks,Tankathon,9,7.363636364,,,
+Taylor Hendricks,The Box and One,8,7.363636364,,,
+Taylor Hendricks,NBA Draft Room,6,7.363636364,,,
+Taylor Hendricks,Sports Illustrated,7,7.363636364,,,
+Jarace Walker,Average,7,7.4,,,
+Taylor Hendricks,Average,7,7.4,,,
+Anthony Black,Average,8,7.5,,,
+Anthony Black,Sam Vecenie,8,7.545454545,,,
+Anthony Black,CBS,9,7.545454545,,,
+Anthony Black,nbadraft.net,5,7.545454545,,,
+Anthony Black,Bleacher Report,12,7.545454545,,,
+Anthony Black,Kevin O'Connor,6,7.545454545,,,
+Anthony Black,ESPN,8,7.545454545,,,
+Anthony Black,Tankathon,8,7.545454545,,,
+Anthony Black,The Box and One,5,7.545454545,,,
+Anthony Black,NBA Draft Room,8,7.545454545,,,
+Anthony Black,Sports Illustrated,6,7.545454545,,,
+Gradey Dick,Average,11,10.55555556,,,
+Gradey Dick,Sam Vecenie,12,10.63636364,,,
+Gradey Dick,CBS,11,10.63636364,,,
+Gradey Dick,nbadraft.net,8,10.63636364,,,
+Gradey Dick,Bleacher Report,10,10.63636364,,,
+Gradey Dick,Kevin O'Connor,12,10.63636364,,,
+Gradey Dick,ESPN,10,10.63636364,,,
+Gradey Dick,Tankathon,10,10.63636364,,,
+Gradey Dick,The Box and One,11,10.63636364,,,
+Gradey Dick,Sports Illustrated,11,10.63636364,,,
+Gradey Dick,NBA Draft Room,11,10.63636364,,,
+Cason Wallace,Sam Vecenie,10,11,,,
+Cason Wallace,CBS,16,11,,,
+Cason Wallace,nbadraft.net,12,11,,,
+Cason Wallace,Bleacher Report,7,11,,,
+Cason Wallace,Kevin O'Connor,11,11,,,
+Cason Wallace,ESPN,14,11,,,
+Cason Wallace,Tankathon,11,11,,,
+Cason Wallace,The Box and One,7,11,,,
+Cason Wallace,NBA Draft Room,12,11,,,
+Cason Wallace,Sports Illustrated,10,11,,,
+Cason Wallace,Average,11,11,,,
+Grady Dick,Average,11,11,,,
+Keyonte George,Sam Vecenie,18,13.18181818,,,
+Keyonte George,CBS,7,13.18181818,,,
+Keyonte George,nbadraft.net,15,13.18181818,,,
+Keyonte George,Bleacher Report,11,13.18181818,,,
+Keyonte George,Kevin O'Connor,13,13.18181818,,,
+Keyonte George,ESPN,16,13.18181818,,,
+Keyonte George,Tankathon,12,13.18181818,,,
+Keyonte George,The Box and One,13,13.18181818,,,
+Keyonte George,NBA Draft Room,14,13.18181818,,,
+Keyonte George,Sports Illustrated,13,13.18181818,,,
+Keyonte George,Average,13,13.2,,,
+Nick Smith Jr.,nbadraft.net,10,16.27272727,,,
+Nick Smith Jr.,The Box and One,21,16.27272727,,,
+Nick Smith Jr.,Sam Vecenie,19,16.27272727,,,
+Nick Smith Jr.,CBS,22,16.27272727,,,
+Nick Smith Jr.,Bleacher Report,15,16.27272727,,,
+Nick Smith Jr.,Kevin O'Connor,14,16.27272727,,,
+Nick Smith Jr.,ESPN,13,16.27272727,,,
+Nick Smith Jr.,Tankathon,13,16.27272727,,,
+Nick Smith Jr.,NBA Draft Room,22,16.27272727,,,
+Nick Smith Jr.,Sports Illustrated,14,16.27272727,,,
+Nick Smith Jr.,Average,16,16.3,,,
+Kobe Bufkin,Sam Vecenie,11,17.18181818,,,
+Kobe Bufkin,CBS,15,17.18181818,,,
+Kobe Bufkin,nbadraft.net,19,17.18181818,,,
+Kobe Bufkin,Bleacher Report,13,17.18181818,,,
+Kobe Bufkin,Kevin O'Connor,10,17.18181818,,,
+Kobe Bufkin,ESPN,18,17.18181818,,,
+Kobe Bufkin,Tankathon,23,17.18181818,,,
+Kobe Bufkin,The Box and One,14,17.18181818,,,
+Kobe Bufkin,NBA Draft Room,31,17.18181818,,,
+Kobe Bufkin,Sports Illustrated,18,17.18181818,,,
+Kobe Bufkin,Average,17,17.2,,,
+Jalen Hood-Schifino,Sam Vecenie,16,17.36363636,,,
+Jalen Hood-Schifino,CBS,12,17.36363636,,,
+Jalen Hood-Schifino,Bleacher Report,29,17.36363636,,,
+Jalen Hood-Schifino,Kevin O'Connor,22,17.36363636,,,
+Jalen Hood-Schifino,ESPN,11,17.36363636,,,
+Jalen Hood-Schifino,Tankathon,17,17.36363636,,,
+Jalen Hood-Schifino,The Box and One,18,17.36363636,,,
+Jalen Hood-Schifino,NBA Draft Room,13,17.36363636,,,
+Jalen Hood-Schifino,Sports Illustrated,20,17.36363636,,,
+Jalen Hood-Schifino,nbadraft.net,16,17.36363636,,,
+Jalen Hood-Schifino,Average,17,17.4,,,
+Jordan Hawkins,Sam Vecenie,17,18.09090909,,,
+Jordan Hawkins,CBS,18,18.09090909,,,
+Jordan Hawkins,nbadraft.net,23,18.09090909,,,
+Jordan Hawkins,Bleacher Report,23,18.09090909,,,
+Jordan Hawkins,Kevin O'Connor,25,18.09090909,,,
+Jordan Hawkins,ESPN,15,18.09090909,,,
+Jordan Hawkins,Tankathon,14,18.09090909,,,
+Jordan Hawkins,The Box and One,24,18.09090909,,,
+Jordan Hawkins,NBA Draft Room,10,18.09090909,,,
+Jordan Hawkins,Sports Illustrated,12,18.09090909,,,
+Jordan Hawkins,Average,18,18.1,,,
+GG Jackson,Sam Vecenie,22,19.33333333,,,
+GG Jackson,nbadraft.net,11,19.33333333,,,
+GG Jackson,Bleacher Report,20,19.33333333,,,
+GG Jackson,Kevin O'Connor,18,19.33333333,,,
+GG Jackson,Tankathon,30,19.33333333,,,
+GG Jackson,The Box and One,12,19.33333333,,,
+GG Jackson,NBA Draft Room,17,19.33333333,,,
+GG Jackson,Sports Illustrated,25,19.33333333,,,
+GG Jackson,Average,19,19.375,,,
+Derek Lively II,Average,20,19.5,,,
+Derek Lively II,nbadraft.net,32,19.54545455,,,
+Derek Lively II,Bleacher Report,21,19.54545455,,,
+Derek Lively II,Kevin O'Connor,20,19.54545455,,,
+Derek Lively II,ESPN,12,19.54545455,,,
+Derek Lively II,Tankathon,21,19.54545455,,,
+Derek Lively II,The Box and One,16,19.54545455,,,
+Derek Lively II,Sports Illustrated,22,19.54545455,,,
+Derek Lively II,CBS,19,19.54545455,,,
+Derek Lively II,Sam Vecenie,14,19.54545455,,,
+Derek Lively II,NBA Draft Room,18,19.54545455,,,
+Brice Sensabaugh,Average,22,21.7,,,
+Kris Murray,Average,22,21.7,,,
+Brice Sensabaugh,Sam Vecenie,15,21.72727273,,,
+Brice Sensabaugh,CBS,23,21.72727273,,,
+Brice Sensabaugh,nbadraft.net,35,21.72727273,,,
+Brice Sensabaugh,Bleacher Report,14,21.72727273,,,
+Brice Sensabaugh,Kevin O'Connor,19,21.72727273,,,
+Brice Sensabaugh,ESPN,21,21.72727273,,,
+Brice Sensabaugh,Tankathon,15,21.72727273,,,
+Brice Sensabaugh,The Box and One,22,21.72727273,,,
+Brice Sensabaugh,NBA Draft Room,27,21.72727273,,,
+Brice Sensabaugh,Sports Illustrated,26,21.72727273,,,
+Kris Murray,Sam Vecenie,20,21.72727273,,,
+Kris Murray,CBS,17,21.72727273,,,
+Kris Murray,nbadraft.net,18,21.72727273,,,
+Kris Murray,Bleacher Report,26,21.72727273,,,
+Kris Murray,Kevin O'Connor,27,21.72727273,,,
+Kris Murray,ESPN,25,21.72727273,,,
+Kris Murray,Tankathon,22,21.72727273,,,
+Kris Murray,The Box and One,19,21.72727273,,,
+Kris Murray,NBA Draft Room,26,21.72727273,,,
+Kris Murray,Sports Illustrated,17,21.72727273,,,
+Leonard Miller,Average,22,21.8,,,
+Leonard Miller,Sam Vecenie,13,21.81818182,,,
+Leonard Miller,CBS,21,21.81818182,,,
+Leonard Miller,nbadraft.net,24,21.81818182,,,
+Leonard Miller,Bleacher Report,30,21.81818182,,,
+Leonard Miller,Kevin O'Connor,16,21.81818182,,,
+Leonard Miller,ESPN,23,21.81818182,,,
+Leonard Miller,Tankathon,20,21.81818182,,,
+Leonard Miller,The Box and One,17,21.81818182,,,
+Leonard Miller,NBA Draft Room,30,21.81818182,,,
+Leonard Miller,Sports Illustrated,24,21.81818182,,,
+Jett Howard,Sam Vecenie,27,22,,,
+Jett Howard,CBS,32,22,,,
+Jett Howard,nbadraft.net,25,22,,,
+Jett Howard,Bleacher Report,17,22,,,
+Jett Howard,Kevin O'Connor,23,22,,,
+Jett Howard,ESPN,17,22,,,
+Jett Howard,Tankathon,16,22,,,
+Jett Howard,The Box and One,23,22,,,
+Jett Howard,NBA Draft Room,21,22,,,
+Jett Howard,Sports Illustrated,19,22,,,
+Jett Howard,Average,22,22,,,
+Rayan Rupert,Sam Vecenie,26,22.36363636,,,
+Rayan Rupert,CBS,28,22.36363636,,,
+Rayan Rupert,nbadraft.net,14,22.36363636,,,
+Rayan Rupert,Bleacher Report,28,22.36363636,,,
+Rayan Rupert,Kevin O'Connor,21,22.36363636,,,
+Rayan Rupert,ESPN,19,22.36363636,,,
+Rayan Rupert,Tankathon,18,22.36363636,,,
+Rayan Rupert,The Box and One,33,22.36363636,,,
+Rayan Rupert,NBA Draft Room,16,22.36363636,,,
+Rayan Rupert,Sports Illustrated,21,22.36363636,,,
+Rayan Rupert,Average,22,22.4,,,
+Bilal Coulibaly,Average,23,22.5,,,
+Bilal Coulibaly,Sam Vecenie,24,22.54545455,,,
+Bilal Coulibaly,CBS,24,22.54545455,,,
+Bilal Coulibaly,nbadraft.net,22,22.54545455,,,
+Bilal Coulibaly,Bleacher Report,19,22.54545455,,,
+Bilal Coulibaly,Kevin O'Connor,17,22.54545455,,,
+Bilal Coulibaly,ESPN,22,22.54545455,,,
+Bilal Coulibaly,Tankathon,24,22.54545455,,,
+Bilal Coulibaly,The Box and One,26,22.54545455,,,
+Bilal Coulibaly,NBA Draft Room,15,22.54545455,,,
+Bilal Coulibaly,Sports Illustrated,32,22.54545455,,,
+Dariq Whitehead,Sam Vecenie,21,25,,,
+Dariq Whitehead,CBS,29,25,,,
+Dariq Whitehead,nbadraft.net,33,25,,,
+Dariq Whitehead,Bleacher Report,16,25,,,
+Dariq Whitehead,Kevin O'Connor,35,25,,,
+Dariq Whitehead,ESPN,26,25,,,
+Dariq Whitehead,Tankathon,19,25,,,
+Dariq Whitehead,The Box and One,20,25,,,
+Dariq Whitehead,NBA Draft Room,35,25,,,
+Dariq Whitehead,Sports Illustrated,16,25,,,
+Dariq Whitehead,Average,25,25,,,
+Noah Clowney,Average,27,26.6,,,
+Noah Clowney,Sam Vecenie,30,26.63636364,,,
+Noah Clowney,CBS,41,26.63636364,,,
+Noah Clowney,nbadraft.net,28,26.63636364,,,
+Noah Clowney,Bleacher Report,24,26.63636364,,,
+Noah Clowney,Kevin O'Connor,26,26.63636364,,,
+Noah Clowney,ESPN,20,26.63636364,,,
+Noah Clowney,Tankathon,27,26.63636364,,,
+Noah Clowney,The Box and One,31,26.63636364,,,
+Noah Clowney,NBA Draft Room,24,26.63636364,,,
+Noah Clowney,Sports Illustrated,15,26.63636364,,,
+Maxwell Lewis,The Box and One,25,29.72727273,,,
+Maxwell Lewis,Sam Vecenie,29,29.72727273,,,
+Maxwell Lewis,CBS,56,29.72727273,,,
+Maxwell Lewis,nbadraft.net,17,29.72727273,,,
+Maxwell Lewis,Bleacher Report,27,29.72727273,,,
+Maxwell Lewis,Kevin O'Connor,34,29.72727273,,,
+Maxwell Lewis,ESPN,31,29.72727273,,,
+Maxwell Lewis,Tankathon,26,29.72727273,,,
+Maxwell Lewis,NBA Draft Room,25,29.72727273,,,
+Maxwell Lewis,Sports Illustrated,27,29.72727273,,,
+Maxwell Lewis,Average,30,29.72727273,,,
+Colby Jones,Average,31,30.5,,,
+Colby Jones,Sam Vecenie,28,30.54545455,,,
+Colby Jones,CBS,33,30.54545455,,,
+Colby Jones,nbadraft.net,57,30.54545455,,,
+Colby Jones,Bleacher Report,22,30.54545455,,,
+Colby Jones,Kevin O'Connor,29,30.54545455,,,
+Colby Jones,ESPN,28,30.54545455,,,
+Colby Jones,Tankathon,25,30.54545455,,,
+Colby Jones,The Box and One,28,30.54545455,,,
+Colby Jones,NBA Draft Room,32,30.54545455,,,
+Colby Jones,Sports Illustrated,23,30.54545455,,,
+Sidy Cissoko,Sam Vecenie,25,32.09090909,,,
+Sidy Cissoko,CBS,42,32.09090909,,,
+Sidy Cissoko,nbadraft.net,34,32.09090909,,,
+Sidy Cissoko,Bleacher Report,48,32.09090909,,,
+Sidy Cissoko,Kevin O'Connor,24,32.09090909,,,
+Sidy Cissoko,ESPN,40,32.09090909,,,
+Sidy Cissoko,Tankathon,28,32.09090909,,,
+Sidy Cissoko,The Box and One,15,32.09090909,,,
+Sidy Cissoko,NBA Draft Room,23,32.09090909,,,
+Sidy Cissoko,Sports Illustrated,42,32.09090909,,,
+Sidy Cissoko,Average,32,32.1,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
